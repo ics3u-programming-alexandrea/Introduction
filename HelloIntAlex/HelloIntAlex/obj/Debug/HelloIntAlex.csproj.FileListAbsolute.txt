@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Introduction\HelloIntAlex\HelloIntAlex\bin\Debug\HelloIntAlex.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Introduction\HelloIntAlex\HelloIntAlex\bin\Debug\HelloIntAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Introduction\HelloIntAlex\HelloIntAlex\bin\Debug\HelloIntAlex.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Introduction\HelloIntAlex\HelloIntAlex\obj\Debug\HelloIntAlex.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Introduction\HelloIntAlex\HelloIntAlex\obj\Debug\HelloIntAlex.frmHelloWorldInt.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Introduction\HelloIntAlex\HelloIntAlex\obj\Debug\HelloIntAlex.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Introduction\HelloIntAlex\HelloIntAlex\obj\Debug\HelloIntAlex.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Introduction\HelloIntAlex\HelloIntAlex\obj\Debug\HelloIntAlex.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Introduction\HelloIntAlex\HelloIntAlex\obj\Debug\HelloIntAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Introduction\HelloIntAlex\HelloIntAlex\obj\Debug\HelloIntAlex.pdb
